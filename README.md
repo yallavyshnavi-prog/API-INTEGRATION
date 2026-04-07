@@ -23,4 +23,5 @@ To complete this project, three main technologies are used: HTML, CSS, and JavaS
 When the user enters input (like a city name) and clicks a button, JavaScript sends a request to the API using a method called fetch(). The API then returns the data in JSON format. This data is processed and shown on the webpage instantly without refreshing the page. This creates a smooth and user-friendly experience.
 
 *OUTPUT*:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/baba8ca1-5fbd-4de4-a37e-1f098e15efb1" />
 
